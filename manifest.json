@@ -7,11 +7,11 @@
     ],
     "description": "Pauses the video when the tab changes",
     "icons": {
-        "16": "youtube_16.png",
-        "24": "youtube_24.png",
-        "32": "youtube_32.png",
-        "48": "youtube_48.png",
-        "128": "youtube_128.png"
+        "16": "assets/youtube_16.png",
+        "24": "assets/youtube_24.png",
+        "32": "assets/youtube_32.png",
+        "48": "assets/youtube_48.png",
+        "128": "assets/youtube_128.png"
     },
     "manifest_version": 3,
     "name": "Pause Me Daddy",
